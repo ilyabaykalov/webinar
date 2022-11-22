@@ -1,0 +1,12 @@
+.friend-card {
+	width: 250px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	border: 1px solid burlywood;
+	padding: 10px;
+}
+
+.email {
+	font-size: 1em;
+}
