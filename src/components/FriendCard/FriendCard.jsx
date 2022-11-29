@@ -10,7 +10,7 @@ const FriendCard = ({ first_name, last_name, age, email, avatar }) => (
       alt={ `${ last_name }'s avatar` }/>
     <h1>{ first_name } { last_name }</h1>
     <h4>Возраст: { age }</h4>
-    <h2 className={'email'}>e-mail: { email }</h2>
+    <h2 className={'email'}>Электронная почта: { email }</h2>
   </div>
 );
 
